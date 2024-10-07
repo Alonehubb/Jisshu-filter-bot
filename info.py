@@ -38,7 +38,7 @@ auth_channel = environ.get('AUTH_CHANNEL', '-1002223318264')
 SUPPORT_GROUP = int(environ.get('SUPPORT_GROUP', '-1002354223215'))
 request_channel = environ.get('REQUEST_CHANNEL', '-1002292402556') # If anyone sends a request message to your bot, you will get it in this channel.
 MOVIE_UPDATE_CHANNEL = int(environ.get('MOVIE_UPDATE_CHANNEL', '-1002205583414')) # 
-SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/') #Support group link ( make sure bot is admin )
+SUPPORT_CHAT = environ.get('SUPPORT_CHAT', 'https://t.me/haivbhhwlvw') #Support group link ( make sure bot is admin )
 #---------------------------------------------------------------
 #---------------------------------------------------------------
 IS_VERIFY = is_enabled('IS_VERIFY', True)
@@ -47,12 +47,12 @@ TUTORIAL = environ.get("TUTORIAL", "https://t.me/hhsoccso8853")
 TUTORIAL_2 = environ.get("TUTORIAL_2", "https://t.me/hhsoccso8853")
 TUTORIAL_3 = environ.get("TUTORIAL_3", "https://t.me/hhsoccso8853")
 VERIFY_IMG = environ.get("VERIFY_IMG", "https://graph.org/file/1669ab9af68eaa62c3ca4.jpg")
-SHORTENER_API = environ.get("SHORTENER_API", "3097623f852197a9ce40d1212aaa8bbf2803e799")
-SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'omegalinks.in')
-SHORTENER_API2 = environ.get("SHORTENER_API2", "3097623f852197a9ce40d1212aaa8bbf2803e799")
-SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'omegalinks.in')
-SHORTENER_API3 = environ.get("SHORTENER_API3", "3097623f852197a9ce40d1212aaa8bbf2803e799")
-SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'omegalinks.in')
+SHORTENER_API = environ.get("SHORTENER_API", "e27949c396504dca50e6caed52b70917f00593c9")
+SHORTENER_WEBSITE = environ.get("SHORTENER_WEBSITE", 'linkpays.in')
+SHORTENER_API2 = environ.get("SHORTENER_API2", "3f59866fff2e9dda7fe21ad1439705357cd13030")
+SHORTENER_WEBSITE2 = environ.get("SHORTENER_WEBSITE2", 'gplinks.com')
+SHORTENER_API3 = environ.get("SHORTENER_API3", "beede0b297fcecb40ca4b963c37e599140ce8923")
+SHORTENER_WEBSITE3 = environ.get("SHORTENER_WEBSITE3", 'atglinks.com')
 TWO_VERIFY_GAP = int(environ.get('TWO_VERIFY_GAP', "14400"))
 THREE_VERIFY_GAP = int(environ.get('THREE_VERIFY_GAP', "14400"))
 #---------------------------------------------------------------
